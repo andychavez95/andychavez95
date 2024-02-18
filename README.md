@@ -7,7 +7,7 @@ Mucho gusto de que hayas visitado mi perfil de Github. Este es un vistazo al con
 ### Mis redes:
 
 <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/hristo-chavez-huertas-434095249/" target="blank">
+    <a href="https://www.linkedin.com/in/hristo-chavez-huertas-434095249/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hristo-chavez-huertas-434095249/" height="30" width="50" />
     </a>
 </p>
