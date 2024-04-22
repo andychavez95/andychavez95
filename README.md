@@ -68,5 +68,5 @@ Mucho gusto de que hayas visitado mi perfil de Github. Este es un vistazo al con
 ### Lenguajes que más uso:
 
 <p align = "center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andychavez95&show_icons=true&locale=en&layout=compact" alt="andychavez95" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hristochavez&show_icons=true&locale=en&layout=compact" alt="hristochavez" />
 </p>
